@@ -1,6 +1,6 @@
 /*
-Name: Moses Ouma 
-Reg No : PA106/G/28795/25
+Name: khamisi jillo doyo
+Reg No : PA106/G/28796/25
 Date: 8th October 2025
 Description : Program to calculate electric_bill
 */
